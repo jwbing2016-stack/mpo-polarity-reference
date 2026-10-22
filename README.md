@@ -217,14 +217,3 @@ OM4](https://cablefam.com/product/16-fibers-female-to-female-mpo-trunk-cable-pol
 
 • [8 Fibers OS2 MPO APC Female to 4 LC UPC Duplex Breakout, Type
 B](https://cablefam.com/product/8-cores-os2-single-mode-mpo-apc-female-to-4-lc-upc-duplex-breakout-fiber-patch-cord-type-b-2-0mm-lszh-yellow-fiber-optic-cable)
-
-## Technical References
-
-• [Fluke Networks — Getting 12- and 8-Fiber MPO Polarity
-Right](https://www.flukenetworks.com/blog/cabling-chronicles/getting-12-and-8-fiber-polarity-right)
-
-• [Fluke Networks — MPO vs MTP Fiber Connectors
-Explained](https://www.flukenetworks.com/expertise/learn-about/multi-fiber-push-mpo-connectors)
-
-• [The Fiber Optic Association — Testing Cables with Multifiber/Array
-Connectors](https://www.thefoa.org/tech/ref/testing/test/test-MPO.html)
